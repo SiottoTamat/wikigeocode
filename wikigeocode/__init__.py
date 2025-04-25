@@ -1,1 +1,2 @@
 from .geocode import get_coordinates_from_wikipedia
+from .geocode import get_API_coordinates_from_wikipedia
