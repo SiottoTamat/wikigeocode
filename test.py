@@ -1,5 +1,5 @@
-from wikigeocode import get_coordinates_from_wikipedia
+from wikigeocode import get_best_coordinates
 
-print(get_coordinates_from_wikipedia("Rome"))
+print(get_best_coordinates("Davao Bay"))
 
 # print(get_API_coordinates_from_wikipedia("Rome"))
