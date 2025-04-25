@@ -1,0 +1,1 @@
+from .geocode import get_coordinates_from_wikipedia

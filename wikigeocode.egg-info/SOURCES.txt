@@ -1,0 +1,8 @@
+setup.py
+wikigeocode/__init__.py
+wikigeocode/geocode.py
+wikigeocode.egg-info/PKG-INFO
+wikigeocode.egg-info/SOURCES.txt
+wikigeocode.egg-info/dependency_links.txt
+wikigeocode.egg-info/requires.txt
+wikigeocode.egg-info/top_level.txt
