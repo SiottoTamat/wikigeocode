@@ -196,10 +196,3 @@ def get_best_coordinates(place_name: str):
         return result
 
     return None
-
-
-# def get_coordinates_from_wikipedia(title: str):
-#     pages = get_related_pages_from_wikipedia(title)
-#     if not pages:
-#         return None
-#     return get_coordinates_from_page_wikipedia(pages[0])
